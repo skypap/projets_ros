@@ -1,0 +1,7 @@
+Installer un package github +dep 
+1-aller ds le src
+2-git clone http...
+3-rosdep update
+  rosdep install --from-paths . --ignore-src -y
+4-cd .. + catkin_make
+

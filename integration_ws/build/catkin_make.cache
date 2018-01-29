@@ -1,0 +1,2 @@
+station_de_nettoyage_pkg
+-DCATKIN_DEVEL_PREFIX=/home/maxime/projets-ros/integration_ws/devel -DCMAKE_INSTALL_PREFIX=/home/maxime/projets-ros/integration_ws/install -G Unix Makefiles

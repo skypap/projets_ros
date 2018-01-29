@@ -1,0 +1,8 @@
+prefix=/home/maxime/projets-ros/packages_ext_ws/install
+
+Name: ur_driver
+Description: Description of ur_driver
+Version: 1.1.11
+Cflags: -I/home/maxime/projets-ros/packages_ext_ws/install/include
+Libs: -L/home/maxime/projets-ros/packages_ext_ws/install/lib 
+Requires: dynamic_reconfigure

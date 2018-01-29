@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/maxime/projets-ros/packages_ext_ws/install/setup.sh

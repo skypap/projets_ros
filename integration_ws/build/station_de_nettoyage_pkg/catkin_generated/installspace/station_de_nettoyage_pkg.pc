@@ -1,0 +1,8 @@
+prefix=/home/maxime/projets-ros/integration_ws/install
+
+Name: station_de_nettoyage_pkg
+Description: Description of station_de_nettoyage_pkg
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/maxime/projets-ros/integration_ws/install/lib 
+Requires: 
